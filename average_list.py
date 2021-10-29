@@ -25,8 +25,6 @@ def main():
     # This function calculate average
     average_list = []
     user_number = None
-    loop_number_first = 0
-    loop_number_second = 0
 
     # output
     print("Please enter 1 mark at a time. Enter -1 to end.")
